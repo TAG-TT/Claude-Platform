@@ -1,2 +1,3 @@
 # Claude-Platform
-My Tech &amp; Development workplace  
+
+My Tech &amp; Development workplace
